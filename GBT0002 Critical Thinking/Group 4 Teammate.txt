@@ -1,0 +1,10 @@
+1	Lee Chen Wei	Computer Science (AI)	60162193255
+			
+2	Wong Jea Ru	Chemical Engineering	0162030617
+			
+3	Tan Xin Yi	Chemical Engineering	0185777614
+			
+4	Clenent Fong Yan Shen	Chemical Engineering	601113148733
+			
+5	Ngoi Wan Xin	Japanese Language and Linguistic	601158652445
+			
